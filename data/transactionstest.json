@@ -1,0 +1,14 @@
+{
+    "transactions": [{
+        "transaction_row_id": 1,
+        "zipcode": "94273",
+        "month": "April",
+        "rewards_earned": 3.41355,
+        "amount": 227.57,
+        "year": 2017,
+        "country": "United States",
+        "day": 21,
+        "transaction_id": 100310001,
+        "merchant_name": "sheraton seattle hotel"
+    }]
+}
